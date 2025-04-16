@@ -1,4 +1,5 @@
 """
+train.py
 Trains a PyTorch image classification model using device-agnostic code.
 """
 
